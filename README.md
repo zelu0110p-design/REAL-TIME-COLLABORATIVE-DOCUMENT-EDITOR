@@ -218,10 +218,7 @@ Real-Time Collaborative Document App Documentation
 
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/74eb1419-4656-46c2-af9a-10c2ce21b23a" />
     
-  
-  • History
 
-  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8954f383-cb8f-4502-bab8-a604496efeb0" />
     
   • Login
 
