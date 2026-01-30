@@ -214,3 +214,18 @@ Real-Time Collaborative Document App Documentation
 
 (12) Output
 
+  • Dashboard
+
+    <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/74eb1419-4656-46c2-af9a-10c2ce21b23a" />
+    
+  
+  • History
+
+    <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8954f383-cb8f-4502-bab8-a604496efeb0" />
+    
+  • Login
+
+    <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a58a6967-6f81-4e38-bea5-e772d8bbf1cd" />
+ 
+
+  
